@@ -91,8 +91,12 @@ document.getElementById('btn-h').onclick = function () {
 document.getElementById('btn-j').onclick = function () {
     document.getElementById('audio7').play();
 }
-document.getElementById('btn-k').onclik = function () {
+document.getElementById('btn-k').onclick = function () {
     document.getElementById('audio8').play();
+}
+
+document.getElementById('btn-l').onclick = function () {
+    document.getElementById('audio9').play();
 }
 
 
