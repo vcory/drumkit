@@ -8,12 +8,13 @@ body {
 
 h1{
     font-family: 'Rock Salt', cursive;
-    font-size: 36px;
+    font-size: 45px;
     color: white;
     text-align: center;
 }
 
 .subheading {
+    font-size: 27px;
     font-family: 'Roboto Condensed', sans-serif;
     text-align: center;
     color: whitesmoke
@@ -39,7 +40,7 @@ button {
     text-align: center;
     color: #323031;
     background: rgba(0,0,0,0,4);
-    text-shadow: 0 0 5px black;
+    /* text-shadow: 0 0 5px black; */
 }
 
 
